@@ -8,4 +8,4 @@
 
 ### Algo staff
 
-- for onboarding guidance, see https://confluence.ssnc-corp.cloud/display/ALGOTS/AWS+Architecture
+- for onboarding guidance, see [https://confluence.ssnc-corp.cloud/display/ALGOTS/AWS+Architecture](https://confluence.ssnc-corp.cloud/display/ALGOTS/Requesting+Access)
